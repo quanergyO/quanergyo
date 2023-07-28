@@ -3,7 +3,7 @@
   </h1>
 <div>
   - 🌱 I’m currently learning, working my skills in 
-  <a href=""https://21-school.ru/>school21</a>
+  <a href="https://21-school.ru/>school21"</a>
 </div>
 <br/>
 - :hammer_and_wrench: Languages and Tools :
