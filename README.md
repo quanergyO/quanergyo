@@ -11,9 +11,10 @@
 ---
 
 ### About me
-- 🌱 I’m currently learning **C++, Python**
+- 🌱 I’m currently learning **C/C++, Golang**
 - 💻 Working my skills in [School 21](https://21-school.ru/)
 - ⚡ In my free time, I read tech articles
+- 💻 I currently work for [Astra](https://astralinux.ru/)
 - 📫 Reach me by [email](mailto:quanergy@yandex.ru)
 
 ---
