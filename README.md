@@ -13,7 +13,7 @@
 ### About me
 - 🌱 I’m currently learning **C/C++, Golang**
 - ⚡ Working my skills in [School 21](https://21-school.ru/)
-- 💻 I currently work for [Astra](https://astralinux.ru/)
+- 💻 I currently work for [Tern]()
 - 📫 Reach me by [email](mailto:quanergy@yandex.ru)
 
 ---
